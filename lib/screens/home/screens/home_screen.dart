@@ -28,7 +28,7 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
           SizedBox(height: 70),
           SizedBox(height: 50),
-          CardWidget()
+          CardWidget(),
         ],
       ),
     );
